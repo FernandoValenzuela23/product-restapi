@@ -1,7 +1,6 @@
 package net.fva.product_restapi.service;
 
 import java.util.List;
-
 import net.fva.product_restapi.dto.ProductDto;
 
 public interface IProductService {
